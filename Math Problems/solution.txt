@@ -1,0 +1,23 @@
+Variables:
+
+    N denotes the number of people in the initial circle
+    K denotes the count for each step of execution
+    The K-th person is executed
+    K - 1 people are skipped
+
+    NOTE: The people in the circle are numbered from 1 to n, not 0 to n
+
+Operations in Python3:
+
+    +	Addition	    x + y	
+    -	Subtraction	    x - y	
+    *	Multiplication	x * y	
+    /	Division	    x / y	
+    %	Modulus	        x % y	
+    **	Exponentiation	x ** y	
+    //	Floor division	x // y	
+
+    NOTE: The Modulus operation is the remainder of division of one number by another
+          For example, 15 % 7 = 15 - 7(15 // 7) = 1
+          "//" is Floor division, which leaves the answer is the floor integer version of the decimal solution
+          In conclusion, N % K is N - K(N // K)
