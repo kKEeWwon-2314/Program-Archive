@@ -1,0 +1,3 @@
+interface secondInterface {
+    void printGoodbye();
+}
