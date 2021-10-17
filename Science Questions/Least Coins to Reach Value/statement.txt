@@ -1,4 +1,0 @@
-There are n different types of coins, each worth a different amount. We also have a target value. 
-How do we use the coins avalible to reach the target value with the least amount of coins?
-
-We will have to implement a Greedy Algorithm.
