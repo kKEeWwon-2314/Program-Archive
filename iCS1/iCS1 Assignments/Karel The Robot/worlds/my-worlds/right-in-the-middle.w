@@ -1,0 +1,1 @@
+Dimension: (17, 5)BeeperBag: 1Karel: (1, 1) EastSpeed: 1.00
