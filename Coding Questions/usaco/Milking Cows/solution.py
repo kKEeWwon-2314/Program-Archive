@@ -13,9 +13,12 @@ times = sorted(times)
 start = times[0][0]
 end = times[0][1]
 
+milk_time.append(end - start)
+idle_time.append(0)
+
 for i in range(len(times)):
-    if (times[i][0] < end):
-        if (times[i][1] < end):
+    if (times[i][0] <= end):
+        if (times[i][1] <= end):
             pass
         else:
             end = times[i][1]
@@ -29,5 +32,4 @@ for i in range(len(times)):
         
         milk_time.append(start - end)
 
-print('\n')
 print(max(milk_time), max(idle_time))
