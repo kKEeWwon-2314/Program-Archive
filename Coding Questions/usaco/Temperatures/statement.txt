@@ -1,0 +1,4 @@
+Given a list of temperatures, return another list equal to the length of the previous list that 
+states how many days to wait until another rise in temperature.
+
+If the temperature will never rise (end of the list), return 0.
