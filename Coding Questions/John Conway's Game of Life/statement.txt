@@ -1,4 +1,4 @@
-JOHN CONWAY"S GAME OF LIFE
+JOHN CONWAY'S GAME OF LIFE
 
 The Game of Life is not your typical computer game. It is a cellular automation program, and was 
 invented by Cambridge Mathematician John Conway.
