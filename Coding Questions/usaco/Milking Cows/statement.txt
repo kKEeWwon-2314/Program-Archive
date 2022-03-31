@@ -7,4 +7,4 @@ which at least one farmer was milking a cow was 900 seconds (from 300 to 1200). 
 between the beginning and the ending of all milking, was 300 seconds (1500 minus 1200).
 
 Your job is to write a program that will examine a list of beginning and ending times for N (1 <= N <= 5000) farmers 
-milking N cows and compute (in seconds) the longest continuous time of continuous milking.
+milking N cows and compute (in seconds) the longest continuous time of continuous milking and continuous idling.
