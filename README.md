@@ -1,2 +1,2 @@
 # My_Repository
-My first respository :) This contains some development projects, files, programs from other sources, and most importantly ALL files from iCS1/CS2.
+All my work from 2019 to 2023. This repository contains some development projects, files, externally sourced programs, and all assignments from computer science courses.
