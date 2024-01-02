@@ -2,11 +2,11 @@ import socket
 """
 Connects to Ms. Mia's online server.
 
-Local IP Address: 192.168.68.120
-Ms. Mia's IP Adress: 107.190.76.212
+Local IP Address: 
+Ms. Mia's IP Adress: 
 """
 
-HOST_IP = '107.190.76.212'
+HOST_IP = '' # Obviously im not gonna show my IP address
 PORT = 65432
 DATA = 1024
 
