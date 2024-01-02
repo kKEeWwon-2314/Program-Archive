@@ -22,8 +22,8 @@ def newClient_connect():
 
 # Setting up the socket server
 """
-IP Address Format: 192.168.X.X
-Local Network Format: 127.0.0.1 
+IP Address Format: X.X.X.X
+Local Network Format: X.X.X.X
 """
 socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 socket.bind(("", PORT))
