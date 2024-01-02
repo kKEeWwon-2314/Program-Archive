@@ -1,6 +1,6 @@
 import socket
 """
-Connects to Ms. Mia's online server.
+Connects to an online server.
 
 Local IP Address: 
 Ms. Mia's IP Adress:
